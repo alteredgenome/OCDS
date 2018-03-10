@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Open Content Delivery System
 
-You can use the [editor on GitHub](https://github.com/AGCommunications/OCDS-A/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Open Content Delivery System. This is a free and open source delivery system hosted on the Github platform. If you would like you are free to fork this repository and edit it to work with your domain.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hosting
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you would like to have your content hosted here, send me an email at justin@alteredgeno.me and I will get to work getting it uploaded as soon as I can please use the following format:
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Nickname:
+Unique PIN (At least 8 digits, you will need this to delete or edit any files):
+File Type:
+Desired File Name:
+File Size (Rounded Up to the nearest whole b, kb, mb, gb, tb, etc...):
+E-Mail:
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details email [Justin at support@ocds.gq](mailto:support@ocds.gq).
 
-### Jekyll Themes
+### Access
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AGCommunications/OCDS-A/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+All data can freely be accessed by anybody by accessing the data through the domain http://e.ocds.gq/CONTENT_URL_HERE
+
+If you have trouble accessing the content please give the system at least one hour to catch up before sending an email.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with OCDS? Make sure you have your nickname (if applicable) and have details about the problem then send an email to [support@ocds.gq](mailto:support@ocds.gq) and we will get back to you as soon as possible.
